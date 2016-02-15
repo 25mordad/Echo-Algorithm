@@ -15,7 +15,7 @@ How can I add a node?
 - Just copy the node folder and rename it to what you want. Then change the configuration file as you need.
 - All node files (node.go) are the same.
 
-#Graph of Sample:
+#Graph for Sample:
 	87 --------- 86 ---------- 82 -------- 83
 				 |			   |  
 				 |			   |   
